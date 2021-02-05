@@ -4,9 +4,8 @@ CS 470 - Lab 2\
 \
 Input is given in a text file where each line contains a number from 2 to N.\
 Each process is responsible for deleting the multiples in the text file of a different prime number.\
-The input file is written to in each process.\
-\
-\
+The input file is written to in each process.
+
 # Example of output
 Using the file `/src/input.txt`.\
 \
@@ -75,4 +74,4 @@ Primes:\
 271\
 277\
 281\
-283\
+283
